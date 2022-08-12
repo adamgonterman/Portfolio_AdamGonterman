@@ -10,7 +10,7 @@ Pull from my public github repository (https://github.com/adamgonterman/Portfoli
 
 ## Usage
 
-I have included screenshots of the application and the html/css files associated with the application (assets/images/application_screenshot_#.png, assets/images/html_screenshot_#.png, assets/images/css_screenshot_#.png). Please note that there are several screenshots included in order to capture the full content.
+I have included screenshots of the application and the html/css files associated with the application (assets/images/application_screenshot#.png, assets/images/html_screenshot#.png, assets/images/css_screenshot#.png). Please note that there are several screenshots included in order to capture the full content.
 
 ## License
 
