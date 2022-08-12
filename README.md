@@ -6,7 +6,7 @@ I wanted to get started on a professional portfolio for myself to prepare for my
 
 ## Installation
 
-Pull from my public github repository (https://github.com/adamgonterman/Portfolio_AGonterman) and clone on your local machine to create a directory that allows you to run the code yourself! You can also access my portfolio at the following URL: 
+Pull from my public github repository (https://github.com/adamgonterman/Portfolio_AdamGonterman.git) and clone on your local machine to create a directory that allows you to run the code yourself! You can also access my portfolio at the following URL: 
 
 ## Usage
 
